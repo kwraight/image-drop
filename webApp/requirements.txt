@@ -1,0 +1,13 @@
+streamlit==1.50.0
+st_annotated_text
+pandas
+quote
+protobuf
+altair
+numpy
+pydeck==0.9.1
+vl-convert-python
+deep_translator
+streamlit-mermaid
+vega_datasets 
+pyyaml
